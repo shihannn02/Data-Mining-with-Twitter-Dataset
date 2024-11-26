@@ -85,10 +85,13 @@ By combining topics for further temporal, spatial, and emotional analysis, more 
 
 We can intuitively compare the quantitative and instantaneous number changes of different topics over time based on the below 2 images. The number of posts on each topic has a certain similarity in periodicity. Specifically, during the period from February 1st, 2020 to February 22nd, 2020, the number of posts was relatively small, while by March 17th, 2020, the number of posts increased to varying degrees, which sharply decreased from March 17th to March 20th, and then significantly increased again. Some of the topics reached their peak post count around March 12th, while others reached their peak around March 28th. The peak and trough phenomena during this time period may be related to specific events or activities, and it is worth further research to understand the underlying reasons.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-   <img src="https://github.com/user-attachments/assets/106fd3a5-2510-4bd6-aa58-8f17fed2080b" style="width: 50%;" alt="左图" />
-   <img src="https://github.com/user-attachments/assets/a20fdb2c-a291-43e8-a7b7-76c591ecf29b" style="width: 50%;" alt="右图" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/106fd3a5-2510-4bd6-aa58-8f17fed2080b" alt="左图" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a20fdb2c-a291-43e8-a7b7-76c591ecf29b" alt="右图" width="300"></td>
+  </tr>
+</table>
+
 
 #### Spatial analysis
 
