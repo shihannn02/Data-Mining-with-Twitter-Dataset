@@ -99,9 +99,13 @@ We can intuitively compare the quantitative and instantaneous number changes of 
 
 For spatial analysis, bar charts and geospatial maps are drawn to visually display the relationship between the number of posts and the state. It can be observed from figure below (left side) that regardless of the topic, California, Florida, Texas, New York, and Pennsylvania are almost always among the top five states in terms of post count. In figure below (right side), The distribution of these states is generally located in four directions of the United States: southeast, southwest, northeast, and northwest. Meanwhile, these geospatial maps also reveal an interesting trend that the number of posts in the eastern and western regions of the United States is generally higher than that in the central region, and the reasons for this phenomenon need further analysis.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-   <img width="394" alt="左图" src="https://github.com/user-attachments/assets/54f3cf7b-6036-4a76-b04e-723bc4081abe" style="width: 50%;" />
-   <img width="352" alt="右图" src="https://github.com/user-attachments/assets/51e6f392-d2a1-4569-894d-a948c7d478cc" style="width: 50%;" />
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;"><img src="https://github.com/user-attachments/assets/54f3cf7b-6036-4a76-b04e-723bc4081abe" alt="左图" width="300"></td>
+      <td style="border: none;"><img src="https://github.com/user-attachments/assets/51e6f392-d2a1-4569-894d-a948c7d478cc" alt="右图" width="300"></td>
+    </tr>
+  </table>
 </div>
 
 #### Segment analysis
