@@ -63,7 +63,7 @@ Then I made a table which shows the topic clusters formed by LDA, as well as the
 <p align="center">
 
 | Topic | Number of tweets | Possible topics | Topic keywords |
-|:---------|:-----------------|:----------------|:---------------|
+|:---------|:--------------|:--------------|:---------------|
 | Topic 0 | 10229 | Covid Education Infrastructure | Recit, bologna, sat, eftour, specif, pa, virushygien, dakota, 6549lmartin, usouthflorida, childcar, minut, delet, fiscal, iowacaucas, stellar, publish, kcmo, statement, infrastructur |
 | Topic 1 | 1536 | (Not Interpretable) | Blo, stood, whack, sold, snapchat, hysteria, dearth, gs5734, ge, virul, Thailand, timecovid19, liabil, 25, startl, dudeklinda, stricken, golden, wallstreet, putempcduk |
 | Topic 2 | 9243 | Covid Political Spread | strand, forecast, beck, father, seed, chinaviru, withregram, 29, realdonaldtrump, everybody, bustl, youtub, buddi, editor, tempestchas, notso, indu, diseasethey, whirlwind, stronger |
